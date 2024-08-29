@@ -1,1 +1,7 @@
 /* Здесь будут распологаться стили */
+
+header {
+  display: flex;
+  justify-content: center;
+  color:darkslategray ;
+}
